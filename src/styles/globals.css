@@ -52,6 +52,22 @@ body {
   background: var(--background-end-rgb);
 }
 
+address {
+  font-style: normal;
+}
+
+p {
+  margin: 1em; 
+}
+
+:any-link {
+  text-decoration: none;
+}
+
+:any-link:hover {
+  text-decoration: underline;
+}
+
 @media (prefers-color-scheme: dark) {
   html {
     color-scheme: dark;

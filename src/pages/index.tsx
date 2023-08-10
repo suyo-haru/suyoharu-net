@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>suyoharu</title>
+        <title>すよはる</title>
         <meta name="description" content="工事中" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
@@ -15,6 +15,9 @@ export default function Home() {
         <div>
           (´・ω・`)
         </div>
+        <address>
+          <p><s>Twitter</s><span> </span><a href="https://links.suyoharu.net/x">X: @suyo_haru</a></p>
+        </address>
       </main>
     </>
   )
