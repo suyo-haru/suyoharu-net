@@ -7,7 +7,7 @@ export default function Home() {
         <title>すよはる</title>
         <meta name="description" content="工事中" />
       </Head>
-      <main className="content-center flex flex-col justify-start items-center p-24">
+      <main className="content-center flex flex-col justify-start items-center pt-24">
         <h1 className="font-bold text-[2rem]">工事中</h1>
         <div>
           (´・ω・`)

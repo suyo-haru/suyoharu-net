@@ -9,7 +9,7 @@ export default function Error404() {
         <meta name="robots" content="noindex" />
         <meta name="description" content="" />
       </Head>
-      <main className="content-center flex flex-col justify-start items-center p-24">
+      <main className="content-center flex flex-col justify-start items-center pt-24">
         <h1 className="font-bold text-[2rem]">ページがみつかりません。</h1>
         <div>
           (´・ω・`)
