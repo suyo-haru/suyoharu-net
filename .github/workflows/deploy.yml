@@ -29,7 +29,7 @@ jobs:
       - name: Upload to Deno Deploy
         uses: denoland/deployctl@v1
         with:
-          project: "suyo-haru-suyoharu-net"
+          project: "suyoharu-net-fresh"
           entrypoint: "main.ts"
           root: "."
           
