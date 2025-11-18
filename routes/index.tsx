@@ -14,8 +14,8 @@ export default function Home() {
           (´・ω・`)
         </div>
         <div class="maintanance-info pt-4">
-          <p>頑張ってメンテ中...</p>
-          <p>(20日終了予定)</p>
+          <h2>お知らせ</h2>
+          <p>Cloudflareの障害により、<code>suyoharu.net</code>メールがしばらく届きません。</p>
         </div>
         <address className="not-italic">
           <p className="p-4"><s>Twitter</s><span> </span><a className="text-blue-600 dark:text-blue-400" href="https://links.suyoharu.net/x">X: @suyo_haru</a></p>
