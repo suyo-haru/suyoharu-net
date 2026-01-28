@@ -13,12 +13,6 @@ export default function Home() {
         <div>
           (´・ω・`)
         </div>
-        <div class="maintanance-info pt-4">
-          <h2>お知らせ</h2>
-          <p>Cloudflareの障害により、<code>suyoharu.net</code>へのメールがしばらく届いていませんでした。</p>
-          <p>もしメールが返送された場合はもう一度お送りください。
-</p>
-        </div>
         <address className="not-italic">
           <p className="p-4"><s>Twitter</s><span> </span><a className="text-blue-600 dark:text-blue-400" href="https://links.suyoharu.net/x">X: @suyo_haru</a></p>
         </address>
